@@ -41,37 +41,5 @@ public class Main {
 
 
 
-        /*List<String> ListA = new ArrayList<>();
-        System.out.println("ListA: ");
-        ListA.add("A1");
-        ListA.add("A2");
-        ListA.add("A3");
-        ListA.add("A4");
-        ListA.add("A5");
-        for (int i = 0; i < ListA.size(); i++) {
-            System.out.println(ListA);
-        }
-        List<String> ListB = new ArrayList<>();
-        System.out.println("ListB:");
-        ListB.add("B1");
-        ListB.add("B2");
-        ListB.add("B3");
-        ListB.add("B4");
-        ListB.add("B5");
-        for (int i = 0; i < ListB.size(); i++) {
-            System.out.println(ListB);
-        }
-        List<String> ListC = new ArrayList<>();
-        System.out.println("ListC");
-        ListC.addAll(ListA);
-        ListC.addAll(ListB);
-        for (int i = 0; i < ListC.size(); i++) {
-
-            System.out.println(ListC);
-
-        }
-    }
-}*/
-
 
 
