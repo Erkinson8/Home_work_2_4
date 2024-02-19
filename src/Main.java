@@ -27,7 +27,7 @@ public class Main {
         List<String> listC = new ArrayList<>();
             listC.addAll(listA);
             listC.addAll(listB);
-            System.out.println(" Объединение в ListC: " + listC);
+            System.out.println(" Объединение в  лист С: " + listC);
             System.out.println("-----------");
 
             Collections.sort(listC, Comparator.comparingInt(String::length));
